@@ -22,3 +22,23 @@ criarCartao(
     '2+2?'
     '=4'
 )
+criarCartao(
+    'matematica',
+    '3+3?',
+    '=6'
+)
+criarCartao(
+    'geografia',
+    'Onde se localiza o Brasil?',
+    'América do Sul'
+)
+criarCartao(
+    'geografia',
+    'Qual e o mair pais do planeta Terra?',
+    'Russia'
+)
+criarCartao(
+    'geografia',
+    'Qual oceano banha o Brasil?',
+    'Atlântico'
+)
